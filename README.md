@@ -1,2 +1,1 @@
-sddasada
-45313213
+learn Djangorestframework
